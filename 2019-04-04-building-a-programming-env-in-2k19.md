@@ -5,6 +5,7 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
+Now tracking this file with **git** revision power!
 
 I've had to do this quite a few times, the past couple of months. Rebuild my programming ENV: on the #DAW where I spend most of my computing time on.
 
