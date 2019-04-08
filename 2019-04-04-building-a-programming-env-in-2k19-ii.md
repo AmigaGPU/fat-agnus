@@ -5,6 +5,9 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
+Revision tracking added to **git**. This is how text editing should be controlled
+
+
 As I said the last time having a smooth programming **ENV:** is important when you want to program on whatever machine (on your network) you are on.
 
 The reason is obvious. I want to be able to code in between work / play / stream sessions. Even tiny snips on 15mins to 30 mins are benificial to me.
