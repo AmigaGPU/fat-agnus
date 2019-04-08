@@ -5,7 +5,7 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
-Revision tracking added to **git**. This is how text editing should be controlled
+Revision tracking added to **git**. This is how text editing should be controlled.
 
 
 As I said the last time having a smooth programming **ENV:** is important when you want to program on whatever machine (on your network) you are on.
@@ -31,6 +31,7 @@ Amazon has the following benefits
 - fairly good CC info protection
 - you probably buy stuff there already so you have a card entered there also
 - large network, lots of redundancy (good tech support?)
+
 
 ### The downside for users like me
 
