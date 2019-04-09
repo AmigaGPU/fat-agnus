@@ -42,7 +42,19 @@ Amazon has the following benefits
 
 
 
-(*)I love how it's now a breeze to keep the revisions of my markdown files in check
+(*)I love how it's now a breeze to keep the revisions of my markdown files in check.
+
+All I need to do is enter `$ git commit -a`
+
+Then I uncomment the line(s) with the revised file(s).
+
+After a while I type
+
+`$ git status`
+
+to see how many commits my branch is ahead. Then I can commence with `$ git push` to sync it all up with git.
+Sweet and oh so neat
+
 
 
 
