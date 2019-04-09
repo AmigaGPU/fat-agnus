@@ -5,7 +5,7 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
-Revision tracking added to **git**. This is how text editing should be controlled.
+(*)Revision tracking added to **git**. This is how text editing should be controlled.
 
 
 As I said the last time having a smooth programming **ENV:** is important when you want to program on whatever machine (on your network) you are on.
@@ -42,12 +42,13 @@ Amazon has the following benefits
 
 
 
+(*)I love how it's now a breeze to keep the revisions of my markdown files in check
 
 
 
  #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter.
 
-This is a middle part of it: <https://twitter.com/Radio_Azureus/status/1109157486710439937>
+A middle part of the thread resides here: <https://twitter.com/Radio_Azureus/status/1109157486710439937>
 
 
 This is part-II of the series in which I will publish this thread
