@@ -10,7 +10,7 @@ tags: #programming #golang #linux #DAW
 
 As I said the last time having a smooth programming **ENV:** is important when you want to program on whatever machine (on your network) you are on.
 
-The reason is obvious. I want to be able to code in between work / play / stream sessions. Even tiny snips on 15mins to 30 mins are benificial to me.
+The reason is obvious. I want to be able to code in between work / simulation / play & stream sessions. Even tiny snips of 15mins to 30 mins are benificial to me.
 
 One annoying problem of different cloud techs is that they want CC-info (think breaches, so I dont want that data spread everywhere) yet I have to learn 2 play with them somehow, at least those which give you a chance to.
 #IBMCloud seems to play nice since they tell you what you can do on their network.
