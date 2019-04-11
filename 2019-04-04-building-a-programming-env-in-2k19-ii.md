@@ -48,7 +48,7 @@ All I need to do is enter `$ git commit -a`
 
 Then I uncomment the line(s) with the revised file(s).
 
-After a while I type
+After a while I type:
 
 `$ git status`
 
