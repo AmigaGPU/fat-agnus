@@ -26,7 +26,7 @@ It may in the end be like the student licence from _ACAD_ but that one has the f
 
 With opensource cloud techs like **#AWS** you are not allowed to fully test their stuff. Those guys want CC info.
 
-Amazon has the following benefits
+Amazon has the following benefits:
 
 - fairly good CC info protection
 - you probably buy stuff there already so you have a card entered there also
