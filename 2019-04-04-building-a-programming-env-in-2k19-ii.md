@@ -12,12 +12,13 @@ As I said the last time having a smooth programming **ENV:** is important when y
 
 The reason is obvious. I want to be able to code in between work / simulation / play & stream sessions. Even tiny snips of 15mins to 30 mins are benificial to me.
 
-One annoying problem of different cloud techs is that they want CC-info (think breaches, so I dont want that data spread everywhere) yet I have to learn 2 play with them somehow, at least those which give you a chance to.
+One annoying _problem_ of different cloud techs is that they want CC-info (think breaches), so I dont want that data spread everywhere) yet I have to learn 2 play with them somehow, at least those which give you a chance to.
+
 #IBMCloud seems to play nice since they tell you what you can do on their network.
 
 It may in the end be like the student licence from _ACAD_ but that one has the following benefits:
 
-- fully functional software
+- fully functional systems
 - you may download everything, save all files
 - literally the whole software suit at your disposal for three years, so you can study everything
 - the only catch is printing, that will show that you used a student licence, which is quite fine, since you **can work** with the program suite
@@ -40,8 +41,15 @@ Amazon has the following benefits:
 3. opensource software effectively locked away behind a commercial veil.
 4. Annoyance rises everytime I want to test it out ;)
 
+When I that I can run a free fully functional bash in a browser 
+<https://console.cloud.google.com/cloudshell> at google I did not know that it was in fact a free #docker container at my disposal.
+### Finally I can run some cloud tech in some capacity
+## A full blown docker container!
+
+As you can imagine I am seriously making time to play with this, since I don't need to run the server side for it (I dont have a free headless linux server anymore)
 
 
+Notes:
 (*)I love how it's now a breeze to keep the revisions of my markdown files in check.
 
 All I need to do is enter `$ git commit -a`
