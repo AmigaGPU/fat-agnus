@@ -43,7 +43,7 @@ Amazon has the following benefits:
 
 When I that I can run a free fully functional bash in a browser 
 <https://console.cloud.google.com/cloudshell> at google I did not know that it was in fact a free #docker container at my disposal.
-### Finally I can run some cloud tech in some capacity
+#### Finally I can run some cloud tech in some capacity
 ## A full blown docker container!
 
 As you can imagine I am seriously making time to play with this, since I don't need to run the server side for it (I dont have a free headless linux server anymore)
