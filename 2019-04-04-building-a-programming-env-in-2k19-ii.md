@@ -68,7 +68,7 @@ Sweet and oh so neat ;)
 
  #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter.
 
-A middle part of the thread resides here: <https://twitter.com/Radio_Azureus/status/1109157486710439937>
+A fully synced update of this post resides here <https://github.com/AmigaGPU/fat-agnus/blob/master/2019-04-04-building-a-programming-env-in-2k19-ii.md>
 
 
 This is part-II of the series in which I will publish this thread
