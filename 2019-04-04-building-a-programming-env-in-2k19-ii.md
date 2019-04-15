@@ -64,7 +64,7 @@ to see how many commits my branch is ahead. Then I can commence with `$ git push
 Sweet and oh so neat ;)
 
 
-
+This doc is **not** complete. I decided to publish it now since it's been on the drives for a number of days already.
 
  #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter.
 
