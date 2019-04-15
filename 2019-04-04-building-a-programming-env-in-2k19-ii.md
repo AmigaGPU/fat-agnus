@@ -58,7 +58,7 @@ Then I uncomment the line(s) with the revised file(s).
 
 After a while I type:
 
-`$ git status`
+$ `git status`
 
 to see how many commits my branch is ahead. Then I can commence with `$ git push` to sync it all up with git.
 Sweet and oh so neat ;)
