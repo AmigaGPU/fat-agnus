@@ -41,7 +41,7 @@ Amazon has the following benefits:
 3. opensource software effectively locked away behind a commercial veil.
 4. Annoyance rises everytime I want to test it out ;)
 
-When I that I can run a free fully functional bash in a browser 
+I can run a free fully functional bash in a browser 
 <https://console.cloud.google.com/cloudshell> at google I did not know that it was in fact a free #docker container at my disposal.
 #### Finally I can run some cloud tech in some capacity
 ## A full blown docker container!
