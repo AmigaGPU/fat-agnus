@@ -25,7 +25,7 @@ It may in the end be like the student licence from _ACAD_ but that one has the f
 
 ### AWS
 
-With opensource cloud techs like **#AWS** you are not allowed to fully test their stuff. Those guys want CC info.
+With open-source cloud techs like **#AWS** you are not allowed to fully test their stuff. Those guys want CC info.
 
 Amazon has the following benefits:
 
