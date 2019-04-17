@@ -66,7 +66,7 @@ Sweet and oh so neat ;)
 
 This doc is **not** complete. I decided to publish it now since it's been on the drives for a number of days already.
 
- #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter.
+ #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter
 
 A fully synced update of this post resides here <https://github.com/AmigaGPU/fat-agnus/blob/master/2019-04-04-building-a-programming-env-in-2k19-ii.md>
 
