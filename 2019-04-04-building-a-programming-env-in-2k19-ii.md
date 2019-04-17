@@ -42,7 +42,9 @@ Amazon has the following benefits:
 4. Annoyance rises everytime I want to test it out ;)
 
 I can run a free fully functional bash in a browser 
-<https://console.cloud.google.com/cloudshell> at google I did not know that it was in fact a free #docker container at my disposal.
+<https://console.cloud.google.com/cloudshell> at google
+
+I did not know that it was in fact a free #docker container at my disposal.
 #### Finally I can run some cloud tech in some capacity
 ## A full blown docker container!
 
