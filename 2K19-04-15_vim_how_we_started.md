@@ -1,7 +1,7 @@
 ---
 title: VIM the beginning
 published: false
-description: How I started out using vim
+description: How I started out using vim part-I
 tags: #vim #vi #programming #betatesting #BBS #waffle
 ---
 
