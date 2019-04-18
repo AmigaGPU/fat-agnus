@@ -19,7 +19,7 @@ This doc is new & considered _**w.i.p**_.
 
   #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter
 
-A fully synced update of this post resides here <https://github.com/AmigaGPU/fat-agnus/blob/master/2019-04-04-building-a-programming-env-in-2k19-ii.md>
+A fully synced update of this post resides here <https://github.com/AmigaGPU/fat-agnus/blob/master/2019-04-04-building-a-programming-env-in-2k19-3.md>
 
 
 This is part-II of the series in which I will publish this thread
