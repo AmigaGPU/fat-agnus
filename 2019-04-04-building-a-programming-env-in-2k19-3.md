@@ -7,6 +7,12 @@ tags: #programming #golang #linux #DAW
 
 (*)Revision tracking via **git**. This is how text editing should be controlled
 
+You know what the most important thing is when you make programming ENVs?
+
+Consistency in workflow.
+
+I want git to behave the same in #linux #win64 and #freeBSD.
+
 
 
 This doc is new & considered _**w.i.p**_.
