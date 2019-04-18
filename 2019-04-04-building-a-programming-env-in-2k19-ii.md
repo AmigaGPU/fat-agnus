@@ -66,7 +66,7 @@ to see how many commits my branch is ahead. Then I can commence with `$ git push
 Sweet and oh so neat ;)
 
 
-This doc is now considered completed. I shall move to the next one now.
+This doc is now considered _**completed**_. I shall move to the next one now.
 
   #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter
 
