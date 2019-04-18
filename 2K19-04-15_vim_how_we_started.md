@@ -32,6 +32,12 @@ I downloaded vim on my 68k Amiga and loved the startup screen. It looked very si
 
 The next screen is what made my decision final <https://imgur.com/POyJPHr>
 
+THe fact that I could use vim with build-in help was an eyeopener. From then on I realized, I  can take my time and learn new stuff right in the editor.
+
+### AMAZING
+
+
+
 
 
 *()

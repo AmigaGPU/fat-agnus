@@ -11,7 +11,7 @@ You know what the most important thing is when you make programming ENVs?
 
 Consistency in workflow.
 
-I want git to behave the same in #linux #win64 and #freeBSD.
+I want git to behave (almost) the same in #linux #win64 and #freeBSD. Luckily the coders of git (which is the brainchild of Linus Torvalds) made sure of that. All that you need to do is use _bash_ that came with it, for the easiest path to that achievement.
 
 
 
