@@ -5,7 +5,7 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
-(*)Revision tracking added to **git**. This is how text editing should be controlled
+(*)Revision tracking via **git**. This is how text editing should be controlled
 
 
 As I said the last time having a smooth programming **ENV:** is important when you want to program on whatever machine (on your network) you are on.
