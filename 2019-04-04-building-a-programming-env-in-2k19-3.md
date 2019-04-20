@@ -15,7 +15,7 @@ I want git to behave (almost) the same in #linux #win64 and #freeBSD. Luckily th
 
 Another beautifull thing about tools is that even though, they can do a **lot** you only need to learn what _you_ need, to achieve your goals.
 
-I know no person who knows everything there is about bash, probably only the original programmers and contributors do, and that is a _group_ of people
+I know no person who knows everything there is about bash, probably only the original programmers and contributors do, and that is a _group_ of people, a collective.
 
 I do know one person who know a _lot_ about different shells, but that is simply because she *had to* gain that knowledge, due to her programming ENV:
 
