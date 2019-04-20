@@ -7,7 +7,7 @@ tags: #vim #vi #programming #betatesting
 
 I started with vi on noisy phone lines for the BBS's of the university.
 
-I was a student then, who had the task to punch holes in the system for the URC director so he could fix them.
+I was a student then, who had the task to punch holes in the system for the URC(*) director so he could fix them.
 
 That was in the 1990's.
 
@@ -16,7 +16,7 @@ My vim use back then was as follows:
 - `vi filename.extension`
 - `:i`
 - enter & correct data
-- Regularly get in & out of interactive mode the moment the line goes bad (*)
+- Regularly get in & out of interactive mode the moment the line goes bad (**)
 - do a `:u` when bad stuff came on the screen
 - `:w` in between (I had to do this **very often** since `ATH0` was often send to the Telbit 9600bps modems when the lines went beserk)
 - `:wq` at the end when all looked good on the screen 
@@ -40,9 +40,11 @@ That is how this discovery felt. Esp in a time when multi monitor setups at home
 
 
 
-*()
 Note: I will use the terms **vim** and _vi_ interchangeably. When I talk about the bare version, I reference POSIX vi which you should find on all posix compliant OS'es
 
 
 (*)
 THe modems in that period had MNP5 & other protocols which were supposed to help against unstable phone lines. They were not prepared against the LQ lines we had in our country.
+
+(**)
+URC = Universitair Reken Centrum -> University Computer Lab

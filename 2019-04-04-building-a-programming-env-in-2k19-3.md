@@ -19,7 +19,8 @@ I know no person who knows everything there is about bash, probably only the ori
 
 I do know one person who know a _lot_ about different shells, but that is simply because she *had to* gain that knowledge, due to her programming ENV:
 
-If you want to learn what she shared. I will link the site at the end of this doc with (**)
+If you want to learn what she shared. I will link the site at the end of this doc with (*)
+
 
 
 This doc is new & considered _**w.i.p**_.
