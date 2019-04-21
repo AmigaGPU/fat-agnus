@@ -15,9 +15,9 @@ My vim use back then was as follows:
 
 - `vi filename.extension`
 - `:i`
-- enter & correct data
-- Regularly get in & out of interactive mode the moment the line goes bad (**)
-- do a `:u` when bad stuff came on the screen
+- enter & correct data while:
+- Regularly getting in & out of interactive mode the moment the line goes bad (**)
+- do a `:u` in combo with `^L` when bad stuff came on the screen
 - `:w` in between (I had to do this **very often** since `ATH0` was often send to the Telbit 9600bps modems when the lines went beserk)
 - `:wq` at the end when all looked good on the screen 
 
@@ -37,7 +37,6 @@ THe fact that I could use vim with build-in help was an eyeopener. From then on 
 ### AMAZING
 
 That is how this discovery felt. Esp in a time when multi monitor setups at home were non-existent, since I wanted to be in the editor while I learn new stuff I need, for the tasks at hand.
-
 
 
 Note: I will use the terms **vim** and _vi_ interchangeably. When I talk about the bare version, I reference POSIX vi which you should find on all posix compliant OS'es
