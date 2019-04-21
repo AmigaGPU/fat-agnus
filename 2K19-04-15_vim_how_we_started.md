@@ -28,7 +28,7 @@ For a while this was the only way I used vi. I did not bother with learning othe
 
 After a while I wanted to see what I could do more with vi. However the man files for vi were not on the machines I used vi from. Then someone told me that **vim** by _Bram Molenaar_ had buildin help just like emacs, an editor I could not run due to the ram constraints my workstation had.
 
-I downloaded vim on my 68k Amiga and loved the startup screen. It looked very similar to this one <https://imgur.com/QqMPp4Q>
+I downloaded vim on my m68k Amiga and loved the startup screen. It looked very similar to this one <https://imgur.com/QqMPp4Q>
 
 The next screen is what made my decision final <https://imgur.com/POyJPHr>
 
