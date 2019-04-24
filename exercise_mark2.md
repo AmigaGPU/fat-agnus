@@ -35,6 +35,12 @@ I will add eroor-free compilabe code under here
 
 `package main`
 
+`import "fmt"`
+
+`func main() {`
+        `fmt.Printf("Fa wakka, Suriname\n")`
+
+`}`
 
 
 

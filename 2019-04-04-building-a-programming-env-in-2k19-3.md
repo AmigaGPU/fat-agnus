@@ -23,7 +23,9 @@ If you want to learn what she shared. I will link the site at the end of this do
 
 
 
-This doc is new & considered _**w.i.p**_. Please bare with me
+This doc is new & considered _**w.i.p**_.
+
+I will make a note when the doc is considered worthy for publication.  
 
 
   #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter
