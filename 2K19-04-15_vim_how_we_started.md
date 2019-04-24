@@ -9,7 +9,7 @@ I started with vi on noisy phone lines for the BBS's of the university.
 
 I was a student then, who had the task to punch holes in the system for the URC(*) director so he could fix them.
 
-That was in the 1990's.
+That was in the 1990's a century ago.
 
 My vim use back then was as follows:
 

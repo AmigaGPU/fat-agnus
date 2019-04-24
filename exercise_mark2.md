@@ -31,6 +31,12 @@
 #### note
 This source listing in #golang has **typing errors** it won't compile unless you remove the syntax errors
 
+I will add eroor-free compilabe code under here
+
+`package main`
+
+
+
 
 #### This is an
 - unsorted
