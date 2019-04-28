@@ -5,15 +5,15 @@ description: How I started out using vim part-I
 tags: #vim #vi #programming #betatesting
 ---
 
-I started with vi on noisy phone lines for the BBS's of the university.
+I started with vi on noisy phone lines for the BBS systems of our university.
 
 I was a student then, who had the task to punch holes in the system for the URC(*) director so he could fix them.
 
-That was in the 1990's a century ago.
+That was in the 1990's a century ago ;)
 
 My vim use back then was as follows:
 
-- `vi filename.extension`
+- `vim filename.extension`
 - `:i`
 - enter & correct data while:
 - Regularly getting in & out of interactive mode the moment the line goes bad (**)
