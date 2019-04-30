@@ -19,10 +19,10 @@ My vim use back then was as follows:
 - Regularly getting in & out of interactive mode the moment the line goes bad (**)
 - do a `:u` in combo with `^L` when bad stuff came on the screen
 - `:w` in between (I had to do this **very often** since `ATH0` was often send to the Telbit 9600bps modems when the lines went beserk)
-- `:wq` at the end when all looked good on the screen 
+- `:wq` at the end when all looked good on the screen.
 
 
-The power of _insert mode_ saved my sanity on the copper wires I had to edit files over.
+The power of _insert mode_ saved my sanity on the copper wires from the **POTS** phone system, where I had to edit files over.
 
 For a while this was the only way I used vi. I did not bother with learning others since this was all I needed.
 
