@@ -5,7 +5,7 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
-(*)Revision tracking via **git**
+(*)Revision tracking enabled via **git**
 
 You know what the most important thing is when you make programming ENVs?
 

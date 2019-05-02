@@ -18,7 +18,7 @@ My vim use back then was as follows:
 - enter & correct data while:
 - Regularly getting in & out of interactive mode the moment the line goes bad (**)
 - do a `:u` in combo with `^L` when bad stuff came on the screen
-- `:w` in between (I had to do this **very often** since `ATH0` was often send to the Telbit 9600bps modems when the lines went beserk)
+- `:w` in between (I had to do this **very often** since `ATH0` was often send to the Telebit 9600bps modems when the lines went beserk)
 - `:wq` at the end when all looked good on the screen.
 
 

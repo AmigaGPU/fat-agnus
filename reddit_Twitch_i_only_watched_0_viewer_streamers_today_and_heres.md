@@ -2,7 +2,7 @@ A post on reddit made me think of the chicken egg situation that 'new' streamers
 
 Many starting streamers dont have **important features** in a basic setup, suitable for the job.
 
-One of them is a _secondary monitor_ to drop they streams C&C (*) on.
+One of them is a _secondary monitor_ to drop they stream's C&C (*) on.
 
 ### My C&C consists of:
 - OBS prominent in center
