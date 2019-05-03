@@ -5,7 +5,7 @@ Many starting streamers dont have **important features** in a basic setup, suita
 One of them is a _secondary monitor_ to drop they stream's C&C (*) on.
 
 ### My C&C consists of:
-- OBS prominent in center
+- OBS prominently in center
 - System monitor to have cpu / GPU loads of all processes textual and graphically displayed
 - micro windows with time, date & network info with upload download bandwidth used
 - Many MMO's dont have a time display option which you need to keep yourself hydrated

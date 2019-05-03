@@ -5,7 +5,7 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
-(*)Revision tracking enabled via **git**
+(*)Revision tracking via **git**
 
 You know what the most important thing is when you make programming ENVs?
 
@@ -36,6 +36,8 @@ Serious shell programming by @freebsdfrau
   #301daysofcode #100DaysOfCode #Linux #advancedprogramming hashtags on twitter
 
 A fully synced update of this post resides here <https://github.com/AmigaGPU/fat-agnus/blob/master/2019-04-04-building-a-programming-env-in-2k19-3.md>
+
+The other docs are also in that master branch
 
 
 This is part-II of the series in which I will publish this thread
