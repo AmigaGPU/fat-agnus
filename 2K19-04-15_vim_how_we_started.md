@@ -22,7 +22,7 @@ My vim use back then was as follows:
 - `:wq` at the end when all looked good on the screen.
 
 
-The power of _insert mode_ saved my sanity on the copper wires from the **POTS** phone system, where I had to edit files over.
+The power of _insert mode_ saved my sanity on the copper wires from the **POTS** phone system, where I had to edit files over. THe analog POTS centrals of our phonecompany were run on wires, which were way too old, which means with rain, a lot of moisure creeps in the cable, forcing a lot of noise over the lines.
 
 For a while this was the only way I used vi. I did not bother with learning others since this was all I needed.
 
