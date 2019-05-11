@@ -1,4 +1,4 @@
-A post on reddit made me think of the chicken egg situation that 'new' streamers, who create for an audience, often have.
+A post I recently saw on reddit, made me think of the chicken egg situation that 'new' streamers, who create for an audience, often have.
 
 ## Video
 
@@ -16,7 +16,7 @@ One of them is a _secondary monitor_ to drop they stream's C&C (*) on.
 I would not have bought a new main monitor for streaming. In fact, I bought my IPS LED 1080p TV because my workflow just _needs_ a secondary screen.
 
 ### Monitor notes
-Monitors should _not_ be bought anymore in this day & age. TV's are more than up to the task to display your GPU data properly. Both formats are digital for years now, so stop wasting money on monitors. With a TV you have a free ATSC receiver as a bonus.
+Monitors should _not_ be bought anymore in this day & age. TV's are more than up to the task to display your GPU data properly. Both formats are digital for years now, so stop wasting money on monitors. With a TV you have a free ATSC / DVB-T receiver as a bonus.
 
 For normal work the secondary monitor has proven vital with too many parameters to discuss here, but I would not go back to a programming ENV: which has just one.
 
@@ -57,6 +57,9 @@ I needed:
 
 (*)
 C&C command & control
+
+This doc is a *wip, work in progress* Its not finished yet. It is ripe for prelimenary publishing, which is the main reason why I released it.
+
 
 Reference:
 <https://old.reddit.com/r/Twitch/comments/biprxy/i_only_watched_0_viewer_streamers_today_and_heres/>

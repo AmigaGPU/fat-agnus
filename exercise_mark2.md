@@ -40,7 +40,7 @@ I have added some error-free compilabe code under here.
 
 `import "fmt"`
 
-`func main() {` `fmt.Printf("Fa wakka, Suriname\n")`
+`func main() {` `fmt.Printf("Fa wakka, Suriname!\n")`
 
 `}`
 

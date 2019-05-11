@@ -43,7 +43,13 @@ Note: I will use the terms **vim** and _vi_ interchangeably. When I talk about t
 
 
 (*)
-THe modems in that period had MNP5 & other protocols which were supposed to help against unstable phone lines. They were not prepared against the LQ lines we had in our country.
+The modems in that period had MNP5 & other protocols which were supposed to help against unstable phone lines. They were not prepared against the LQ lines we had in our country.
 
 (**)
 URC = Universitair Reken Centrum -> University Computer Lab
+
+
+This document is a _w.i.p_ it's not finished yet. I publish it now since it's been in the pipeline for a while already and is already in a readable state
+
+Direct link to the last synced version:
+<https://github.com/AmigaGPU/fat-agnus/blob/master/2019-04-04-building-a-programming-env-in-2k19-3.md>
