@@ -1,6 +1,6 @@
 A post I recently saw on reddit, made me think of the chicken egg situation that 'new' streamers, who create for an audience, often have.
 
-## Video
+## Video:
 
 Many starting streamers dont have **important features** in a basic setup, suitable for the job.
 
@@ -37,7 +37,7 @@ I did this before I started streaming, because I also have experience with setti
 
 Channel bot logs helped a lot in the single monitor setup. It helps now also when Im afk.
 
-## Audio
+## Audio:
 
 One _crucial_ factor newbie streamers dont try to controll well is **audio** People dont care about medium quality video, but they get pissed at low quality sound.
 

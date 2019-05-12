@@ -34,7 +34,7 @@ The next screen is what made my decision final <https://imgur.com/POyJPHr>
 
 THe fact that I could use vim with build-in help was an eyeopener. From then on I realized, I  can take my time and learn new stuff right in the editor.
 
-### AMAZING
+### AMAZING!
 
 That is how this discovery felt. Esp in a time when multi monitor setups at home were non-existent, since I wanted to be in the editor while I learn new stuff I need, for the tasks at hand.
 
