@@ -52,3 +52,7 @@ Using this system,
 
 
 This document is a _w.i.p_ it's not finished yet. I publish it only it git ATM, even though it's already in a readble state
+
+
+A fresh up to date version of this doc is here
+<https://github.com/AmigaGPU/fat-agnus/blob/master/reddit_Twitch_24hr_streams_HowTO.md>
