@@ -42,4 +42,13 @@ If I dont have fun at a certain point and that takes more than 3 mins, I announc
 
 Using this system,
 - I go from simulation to simulation, then _pause_
-- Switch to an MMORPG like **#SWTOR**
+- Switch to an MMORPG like **#SWTOR** _pause again_
+- Go to a high speed racing sim _pause_
+- And so forth
+
+
+
+
+
+
+This document is a _w.i.p_ it's not finished yet. I publish it only it git ATM, even though it's already in a readble state

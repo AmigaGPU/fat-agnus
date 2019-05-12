@@ -49,7 +49,7 @@ The modems in that period had MNP5 & other protocols which were supposed to help
 URC = Universitair Reken Centrum -> University Computer Lab
 
 
-This document is a _w.i.p_ it's not finished yet. I publish it now since it's been in the pipeline for a while already and is already in a readable state
+This document is a _w.i.p_ it's not finished yet. I publish it now since it's been in the pipeline for a while already & is already in **a readable state**
 
 Direct link to the last synced version:
 <https://github.com/AmigaGPU/fat-agnus/blob/master/2019-04-04-building-a-programming-env-in-2k19-3.md>

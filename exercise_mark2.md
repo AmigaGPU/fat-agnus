@@ -1,7 +1,7 @@
 *MarkDown Test file*
 ====================
 
-**Cheat sheet copied from site**
+**Cheat sheet copied from site:**
 --------------------------------
 
 ### **Some bold stuff**
