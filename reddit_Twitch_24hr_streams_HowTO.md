@@ -4,9 +4,10 @@ description: How I do my 24hr streams
 tags: #twitch #streaming #Mixer #HowTo
 --
 
-### The Goal
+## The Goal
 
-Achieve the mythical 24hour stream louwers.
+Achieve the mythical 24hour stream louwers
+(without dying in the process).
 
 ### The Method
 I've done 24hr streams, quite a few of them even.
@@ -27,17 +28,18 @@ My system is simple:
 - If anything like disyness occurs, the stream is put on **autopilot** and I attend to my body first, later on (or next day) I tell what happened
 
 
-### The announcements
+## Announcements
+### Mastodont Twitter IRC
 
 It is important that fans know such a big stream is coming. I make sure that all of them know using twitter as an outlet.
 
-Since I stream for **me** I dont respond to reactions warning me of the length / dangers, instead I point to a post which I had up on a blog, which contains these methods.
+Since I stream for **me** I don't respond to reactions warning me of the length / dangers, instead I point to a post which I had up on a blog, which contains these methods.
 
 I start the stream with something light (like a sim I know by heart, or simple tasks in #SWTOR on a given toon set.
 
 Then I continue in a **dynamic manner** while I _keep it light and funny_
 
-If I dont have fun at a certain point and that takes more than 3 mins, I announce, pause and do something else. Viewers tune in to see me having fun, so while I interact where possible, the fun **I have** is important.
+If I don't have fun at a certain point and that takes more than 3 mins, I announce, pause and do something else. Viewers tune in to see me having fun, so while I interact where possible, the fun **I have** is important.
 
 
 Using this system,
@@ -47,7 +49,8 @@ Using this system,
 - And so forth
 
 
-
+### Safeguard routines
+The moment I feel that I need a break, **I take it**. If I need to get up at once and leave the stream, I make sure the stream runs properly on auto (with broadcast quality music at 0dB) and I get up.
 
 
 

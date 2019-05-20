@@ -5,7 +5,7 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
-(*)Revision tracking via **git**
+(*)Revision tracking via **git!**
 
 You know what the most important thing is when you make programming ENVs?
 
@@ -40,4 +40,4 @@ A fully synced update of this post resides here <https://github.com/AmigaGPU/fat
 The other docs are also in that master branch
 
 
-This is part-II of the series in which I will publish this thread
+This is part-III of the series in which I will publish this thread

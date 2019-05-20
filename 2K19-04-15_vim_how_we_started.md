@@ -9,7 +9,7 @@ I started with vi on noisy phone lines for the BBS systems of our university.
 
 I was a student then, who had the task to punch holes in the system for the URC(*) director so he could fix them.
 
-That was in the 1990's a century ago ;)
+That was in the 1990's a whole century ago ;)
 
 My vim use back then was as follows:
 
@@ -39,7 +39,7 @@ THe fact that I could use vim with build-in help was an eyeopener. From then on 
 That is how this discovery felt. Esp in a time when multi monitor setups at home were non-existent, since I wanted to be in the editor while I learn new stuff I need, for the tasks at hand.
 
 
-Note: I will use the terms **vim** and _vi_ interchangeably. When I talk about the bare version, I reference POSIX vi which you should find on all posix compliant OS'es
+Note: I will use the terms **vim** and _**vi**_ interchangeably. When I talk about the bare version, I will reference POSIX vi which you should find on all posix compliant OS'es
 
 
 (*)
