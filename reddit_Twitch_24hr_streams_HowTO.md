@@ -7,7 +7,7 @@ tags: #twitch #streaming #Mixer #HowTo
 ## The Goal
 
 Achieve the mythical 24hour stream louwers
-(without dying in the process).
+(without going to hospital in the process).
 
 ### The Method
 I've done 24hr streams, quite a few of them even.

@@ -29,7 +29,7 @@ I will make a note when the doc is considered worthy for publication.
 
 
 (*)
-Serious shell programming by @freebsdfrau 
+Serious shell programming an **excellent course** by @freebsdfrau 
 <https://freebsdfrau.gitbooks.io/serious-shell-programming/>
 
 

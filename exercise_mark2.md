@@ -15,7 +15,7 @@
 -   5 levels of headers above here
 -   they are easily made with hashtags(\#)
 -   the bullets here are also quite easy
--   I used them now to make the flow look nicer
+-   I used them now to make the flow look nice & polished
 
 #### *underline* is also italic
 
