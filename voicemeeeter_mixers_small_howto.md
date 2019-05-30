@@ -1,3 +1,5 @@
+# VoiceMeeeter HOWTo for streamers and SoHo studio's 
+
 VoiceMeeeter is a **professional** mixing console in software, runs in most win-x flavours.
 
 Because it's a real mixer the connections you can make with it are as versatile as my real mixing consoles in the studio and at home.
@@ -22,4 +24,8 @@ Check the screenshot here <https://imgur.com/wtSx56a>
 I've mapped one audiosource to **kernel mode** _Virtual Cable_ (2nd hardware fader) and another audio source to **_HiFi_ Virtual Audio Cable** which I patched to the third hardware fader. The first fader has my **Behringer** the digitizer, which converts audio from my Yamaha mixing console to very low-latency HQ digital audio.  
 
 Because these cables are in essence **audio snakes** you can connect as many audio sources as you want to them so the mixer fader then acts as a _group fader_ for all these sources.
-A physical mixer has two or more subgroups where you assign the individual channels to a subgroup. 
+A physical mixer has two or more subgroups where you assign the individual channels to a subgroup.
+
+(*)
+This doc is revision synced via **github**. This is the link to the latest update in the repository
+<https://github.com/AmigaGPU/fat-agnus/blob/master/voicemeeeter_mixers_small_howto.md>
