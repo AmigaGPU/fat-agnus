@@ -1,3 +1,11 @@
+---
+title: VoiceMeeeter HOWTo for streamers and SoHo studio's
+published: false
+description: How to use VoiceMeeeter mixing console 4 streamers & in SoHo studios
+tags: #audio #SoundEngineering #DAW #Alsa #Jack
+---
+
+
 ## VoiceMeeeter HOWTo for streamers and SoHo studio's 
 realtime synced(*)
 
@@ -48,6 +56,10 @@ Another strong point that _physical audio mixers_ have is **direct access** to t
 The VoiceMeeeter mixing console has its own strong points. Almost _limitless_ ammount of connections are possible through the **Virtual Audio Cable** system. Of course there are limits, which are imposed by your computer hardware but you are quite flexible to patch audio sources to the mixer.
 
 Because you can also interface with VST-Realtime effects a whole world opens up for you. I have connected nice 'analog'(**) compressors, limiters & delays via a VST-host that I love, thus creating a full fledged mixing console with an FX-rack controlled via my VST-host. 
+
+I've just run another session with my favourite VST host. Since I use it purely as an FX rack, only inputs and outputs are important for me to look at, apart from the dB levels of the audio streams. I have a few screenshots here <https://imgur.com/kzhUZTj>
+
+As you can see I love using _analog_ type effects, esp when it comes down to compressors limiters and gates (which I use for mic's)
 
 (*)
 This doc is synced via **github**. This is the link to the latest update in the repository

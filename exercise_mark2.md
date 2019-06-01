@@ -1,16 +1,31 @@
 *MarkDown Test file*
-====================
+=
+
+### This is a title marker
 
 **Cheat sheet copied from site:**
---------------------------------
+-
+
+This is a subtitle marker
+-
 
 ### **Some bold stuff**
 
 ### _This is underline_
 
-#### header
 
-##### smaller header
+# Huge header
+
+## small header
+
+### smaller header
+
+#### quite small header
+
+##### very small header
+
+###### tiny small header
+
 
 -   5 levels of headers above here
 -   they are easily made with hashtags(\#)
