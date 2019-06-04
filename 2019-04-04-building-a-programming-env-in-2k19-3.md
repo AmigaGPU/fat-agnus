@@ -21,11 +21,13 @@ I do know one person who know a _lot_ about different shells, but that is simply
 
 If you want to learn what she shared, I will link to that thorough body of work, at the end of this doc with (*)
 
+Remember this:
+<https://gnu.org> has all the doc info you need on bash
 
 
 This doc is new & considered _**w.i.p**_.
 
-I will make a note when the doc is considered worthy for publication.  
+I will make a note when the doc is considered worthy for full publication.
 
 
 (*)

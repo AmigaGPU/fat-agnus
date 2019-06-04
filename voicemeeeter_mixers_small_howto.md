@@ -59,7 +59,7 @@ Because you can also interface with VST-Realtime effects a whole world opens up 
 
 I've just run another session with my favourite VST host. Since I use it purely as an FX rack, only inputs and outputs are important for me to look at, apart from the dB levels of the audio streams. I have a few screenshots here <https://imgur.com/kzhUZTj>
 
-As you can see I love using _analog_ type effects, esp when it comes down to compressors limiters and gates (which I use for mic's)
+As you can see I love using _analog_ type effects, esp when it comes down to compressors limiters and gates (which I use for mic's to cut unwanted background noise)
 
 (*)
 This doc is synced via **github**. This is the link to the latest update in the repository

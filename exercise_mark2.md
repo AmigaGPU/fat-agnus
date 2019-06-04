@@ -1,9 +1,9 @@
-*MarkDown Test file*
+_MarkDown Test file_
 =
 
-### This is a title marker
+### The code above is a title marker
 
-**Cheat sheet copied from site:**
+**Cheat sheet copied from MarkDownEdit site:**
 -
 
 This is a subtitle marker
