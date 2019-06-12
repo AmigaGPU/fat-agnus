@@ -3,7 +3,7 @@ _MarkDown Test file_
 
 ### The code above is a title marker
 
-**Cheat sheet copied from MarkDownEdit site:**
+**Cheat sheet copied from the MarkDownEdit site:**
 -
 
 This is a subtitle marker

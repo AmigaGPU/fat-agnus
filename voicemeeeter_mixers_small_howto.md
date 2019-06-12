@@ -1,7 +1,7 @@
 ---
 title: VoiceMeeeter HOWTo for streamers and SoHo studio's
 published: false
-description: How to use VoiceMeeeter mixing console 4 streamers & in SoHo studios
+description: How to use VoiceMeeeter mixing console for streamers & in SoHo studios
 tags: #audio #SoundEngineering #DAW #Alsa #Jack
 ---
 
@@ -59,7 +59,9 @@ Because you can also interface with VST-Realtime effects a whole world opens up 
 
 I've just run another session with my favourite VST host. Since I use it purely as an FX rack, only inputs and outputs are important for me to look at, apart from the dB levels of the audio streams. I have a few screenshots here <https://imgur.com/kzhUZTj>
 
-As you can see I love using _analog_ type effects, esp when it comes down to compressors limiters and gates (which I use for mic's to cut unwanted background noise)
+As you can see I love using _analog_ type effects, esp when it comes down to compressors limiters and gates (which I use for mic's to cut unwanted background noise). 
+
+When it comes down to noise I have a simple credo. A house should sound like a house, so there should be a *lot* of noises, even _**babies*_ crying are **normal** house noises. If I need a studio noise floor, I either go into one I own, or build a new one to the lower floor specs I need. The **lower** the noise floor the more expensive the physical structure & the damping sound attributes
 
 (*)
 This doc is synced via **github**. This is the link to the latest update in the repository

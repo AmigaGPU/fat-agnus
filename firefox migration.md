@@ -7,10 +7,9 @@ One nice thing is that ffox was able to get my passwords _imported transparently
 
 For me extentions like _uBlock Origin BitWarden_ & _LastPass_ are vital
 
-A last important one was a _tab history_ extension which I found within 12hrs
+A last important one was a _tab history_ extension which I found within 4hrs
 
 Now I have to look if the latest incarnations are not as CPU hungry as the ones that forced me to stop in 2013. (*)
-
 
 If it is good on this ageing #DAW, I have my response to google's FU to us, their users
 
