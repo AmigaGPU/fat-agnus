@@ -2,7 +2,7 @@
 title: VoiceMeeeter HOWTo for streamers and SoHo studio's
 published: false
 description: How to use VoiceMeeeter mixing console for streamers & in SoHo studios
-tags: #audio #SoundEngineering #DAW #Alsa #Jack
+tags: #SoundEngineering #DAW #Alsa #Jack
 ---
 
 

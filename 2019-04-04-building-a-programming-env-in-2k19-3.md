@@ -1,7 +1,7 @@
 ---
 title: Building a programming ENV: in 2K19 III
 published: false
-description: How I build my programming ENV's on whatever machine I am the longest on part III
+description: How I build my programming ENV's on whatever machine I am the longest on part-III
 tags: #programming #golang #linux #DAW
 ---
 
@@ -17,7 +17,7 @@ Another beautifull thing about tools is that even though, they can do a **lot** 
 
 I know no person who knows everything there is about bash, probably only the original programmers and contributors do, and that is a _group_ of people, a collective.
 
-I do know one person who know a _lot_ about different shells, but that is simply because she *had to* gain that knowledge, due to her programming ENV:
+I do know one person who know a _lot_ about different shells, but that is simply because she *had to* gain that knowledge, due to her programming ENV: and workflow both in private and in her job
 
 If you want to learn what she shared, I will link to that thorough body of work, at the end of this doc with (*)
 
