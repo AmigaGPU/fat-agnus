@@ -45,7 +45,7 @@ In this manner you have the same control I have with my physical mixers. The big
 
 My physical mixing consoles have one strong point you may lack with a software mixers like VoiceMeeter.
 
-## Their latency is 0ms
+## Their latency is 0ms!
 
 In VoiceMeeeter you have to work on minimizing latency by following the system requirements, or dropping the load on the mixer. If it has less to do, it will task your CPU at a lower rate. The stronger your #DAW is in CPU power, the _**lower**_ your **latency** will become once you tweak it.
 
@@ -61,10 +61,30 @@ I've just run another session with my favourite VST host. Since I use it purely 
 
 As you can see I love using _analog_ type effects, esp when it comes down to compressors limiters and gates (which I use for mic's to cut unwanted background noise). 
 
-When it comes down to noise I have a simple credo. A house should sound like a house, so there should be a *lot* of noises, even _**babies*_ crying are **normal** house noises. If I need a studio noise floor, I either go into one I own, or build a new one to the lower floor specs I need. The **lower** the noise floor the more expensive the physical structure & the damping sound attributes
+When it comes down to noise I have a simple credo. A house should sound like a house, so there should be a *lot* of noises, even _**babies*_ crying are **normal** house noises. If I need a studio noise floor, I either go into one I own, or build a new one to the lower floor specs I need. The **lower** the noise floor the more expensive the physical structure & the damping sound attributes.
+
+Finances should never be a limiting factor when it comes down to audio work. If you let money stop you _dead_ in your tracks you should **not** become a Sound-Engineer.
+
+Countless times I've had mishaps in the field, from roadies plugging expensive equipment into the wrong power sockets (that ties you with us for a year or two to pay it off) to unexpected critical equipment failures.
+
+The show always goes on, _**ON TIME**_ whatever the problems we've had.
+
+## A few things are important.
+
+I always tell the client that we come way before the event, to not only check out the venue, but also get a sense of the **acoustics**, the roads to and fro (so we know which truck{s}) can we use to haul the gear).
+
+Sometimes we need to get licenced electricians to get the electrical power in the building balanced in a way we can safely work without getting a lack of Amperes when they are really needed. THat can take from days to weeks to get done, and of course the power company needs to clear the mods before we are allowed to work in the venue (again).
+
+In some cases the amplifiers need to work hard briefly, to deliver peak program of the band, after which they drop to the normal RMS' levels again. When you have no exact sense of what the power-lines can deliver smoothly when your amps peak, you will be in for a **nasty** surprise when suddenly your dB's _drop_ to a level where the crowd overscreams the band and your PA.
+
+Another important factor for road work is sleep. Yeah sleep: just like with truck drivers your crew needs to sleep enough, in order to work deep into the night as if it were daytime.
+
+You are better of with **nocturnal** people, who just love to work when all other normals sleep. The others need to manage their sleep in a good manner.
+
+
 
 (*)
-This doc is synced via **github**. This is the link to the latest update in the repository
+This doc is synchronized via **github!** This is the link to the latest update in the repository
 <https://github.com/AmigaGPU/fat-agnus/blob/master/voicemeeeter_mixers_small_howto.md>
 
 (**)

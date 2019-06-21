@@ -1,5 +1,10 @@
-Firefox migration
-=
+---
+title: Firefox migration tips & tricks
+published: false
+description: How to migrate back from chrome to firefox with the least ammount of trouble
+tags: #WebClients #HTML5 #JavaScript #extensions
+---
+
 
 I've downloaded firefox **ESR** and am migrating important addons to firefox equivalents. Up to now most of them, apart from _authy_ (a crucial one) have native versions.
 
