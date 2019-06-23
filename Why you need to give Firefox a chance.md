@@ -26,10 +26,10 @@ When google recently had the audacity to announce that they will basically castr
 
 This is after 5+ years of chome peace of mind. I pay dearly with my privacy, I get cross platform ease in return.
 
-
 This is a _w.i.p_ This doc is not finished, but ripe for publication.
+
+Direct link: <https://github.com/AmigaGPU/fat-agnus/blob/master/Why%20you%20need%20to%20give%20Firefox%20a%20chance.md>
 
 For now you can only read it on my github doc branch
 
-Direct link:
 
