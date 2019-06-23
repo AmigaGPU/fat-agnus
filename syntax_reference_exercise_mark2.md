@@ -6,7 +6,7 @@ _*MarkDown syntax Reference*_
 **_Cheat sheet copied from the MarkDownEdit site:_**
 -
 
-This is a subtitle marker
+This is a _subtitle_ marker
 -
 
 ### **Some bold stuff**

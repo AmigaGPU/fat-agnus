@@ -24,6 +24,8 @@ If you want to learn what she shared, I will link to that thorough body of work,
 Remember this:
 <https://gnu.org> has all the doc info you need on bash
 
+I have a number of examples in tweets which I shall just point you to.
+
 
 This doc is new & considered _**w.i.p**_.
 
