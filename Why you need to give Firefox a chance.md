@@ -1,5 +1,5 @@
 ---
-title: Firfox The next chance
+title: Firfox The next chance given
 published: false
 description: How I try to fork over to firefox after years of chrome
 tags: #html5 #css #crossplatform #passwords
@@ -20,11 +20,21 @@ First thing I knew was to max the ram in the machine since chrome is like a *For
 
 What a breeze that switch was. THe core load of firefox which was **4x25%!!!** went down to 16% max with chrome! Amazing! Chrome was also much much snappier in everything.
 
-Like the programmers of chrome know that their browser will be used a lot on toaster machines, they made sure it runs very well on low powered CPU's. The moment chrome sees that you have oogles of RAM its like a ballerina in concert!
+Like the programmers of chrome know that their browser will be used a lot on toaster machines, they made sure it runs _very well_ on low powered CPU's. The moment chrome sees that you have oogles of RAM its like a ballerina in concert!
 
 When google recently had the audacity to announce that they will basically castrate extensions which do adblocking, tried firefox again.
 
 This is after 5+ years of chome peace of mind. I pay dearly with my privacy, I get cross platform ease in return.
+
+I use advanced adblocking so no one actually bothers me with (un)targetted ads. I do know that google know a **TON** about all who use its most advanced spyware -> chrome
+
+Firefox still uses _**unacceptable ammounts of CPU cycles**_ on my machine with 4 cores modern GPU's (GTX 1050) dual tasking with a dedicated GPU for nVEnc and smaller tasks on a 2nd panel.
+
+You need a certain ammount of juice to run it smoothly, while your machine streams runs the DAW software and does other work.
+
+Chrome runs smoothly on this light CPU with everything else modern and by the times
+
+THis doc was written inspired by this wonderfull post <https://dev.to/dtroode/why-you-need-to-give-firefox-a-chance-5g5a>
 
 This is a _w.i.p_ This doc is not finished, but ripe for publication.
 
