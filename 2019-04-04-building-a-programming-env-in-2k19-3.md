@@ -11,7 +11,10 @@ You know what the most important thing is when you make programming ENVs?
 
 #### Consistency in workflow
 
-I want git to behave (almost) the same in #linux #win64 and #freeBSD. Luckily the coders of git (which is the brainchild of Linus Torvalds) made sure of that. All that you need to do is use _bash_ that came with it, for the easiest path to that achievement.
+I want git to behave (almost) the same in #linux #win64 and #freeBSD. Luckily the coders of git (which is the brainchild of Linus Torvalds) made sure of that. All that you need to do is use _bash_ that came with it, for the easiest path to that achievement. When you dig a bit into the subject, you will see that some clever translations are done for drive paths and such, so that they become consistent in linux and win64
+
+The syntax is /driveletter/path
+So `/e/var/home/programmer/coding/linux/xplatfor/fat-agnus` would be a valid path in bash win64 and bash linux, while the underlying win64 filesystem (ntfs) letter and backslashes are translated to posix compliant equivalents, making the compilation of your sources easier, since you don't need to do any filesystem path conversions, by including an extra lib for that function. 
 
 Another beautifull thing about tools is that even though, they can do a **lot** you only need to learn what _you_ need, to achieve your goals.
 

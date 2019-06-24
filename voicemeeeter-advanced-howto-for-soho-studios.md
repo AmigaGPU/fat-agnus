@@ -11,7 +11,9 @@ realtime synced(*)
 
 VoiceMeeeter is a **professional** mixing console in software, runs in most win-x flavours.
 
-In this doc I will highlight the usage of **#VBAN** an advanced _UDP_ based network protocol designed to send your audio in broadcast quality (uncompressed PCM format) from mixing console to mixing console and to various #VBAN receptors throughout like phones and client machines running a mixmode of _android iOS_ and win64 OS'es
+In this doc I will highlight the usage of **#VBAN** an advanced _UDP_ based network protocol designed to send your audio in broadcast quality (uncompressed PCM format) from mixing console to mixing console and to various #VBAN receptors throughout like phones and client machines running a mixmode of _android iOS_ and win64 OS'es.
+
+I will cross-scribe the tweets I posted some days ago in this document in a chronological order
 
 
 (*)
