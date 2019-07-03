@@ -10,8 +10,7 @@ Achieve the mythical 24hour stream louwers
 (without going to hospital in the process).
 
 ### The Method
-I've done 24hr streams, quite a few of them even.
-
+(**)
 There is a strict set of rules I abide by to keep myself healty:
 
 - Run a cron scheduled task / reminder to **hydrate** my body in time every hour
@@ -53,6 +52,8 @@ Using this system,
 The moment I feel that I need a break, **I take it**. If I need to get up at once and leave the stream, I make sure the stream runs properly on auto (with broadcast quality music at 0dB) and I get up.
 
 
+(**)
+I've done 24hr streams, quite a few of them even. I do these on a fairly regular basis, if you consider a few times a month regular.
 
 This document is a _w.i.p_ it's not finished yet. I publish it only it git ATM, even though it's already in a readble state
 

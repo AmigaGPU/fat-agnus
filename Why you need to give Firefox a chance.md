@@ -1,5 +1,5 @@
 ---
-title: Firfox The next chance given
+title: Firfox the Next Chance given
 published: false
 description: How I try to fork over to firefox after years of chrome
 tags: #html5 #2FA #crossplatform #passwords
@@ -32,7 +32,29 @@ Firefox still uses _**unacceptable ammounts of CPU cycles**_ on my machine with 
 
 You need a certain ammount of juice to run it smoothly, while your machine streams runs the DAW software and does other work.
 
-Chrome runs smoothly on this light CPU with everything else modern and by the times
+Chrome runs smoothly on this light CPU with everything else modern and by the times.
+
+I've also done a test of firefox on other machines in my network. One of them has a **current** _&_ _**recent**_ CPU / board ram combo. Firefox also takes **questionale** ammounts of CPU power on that modern machine, for reasons still unknown to me.
+
+Conclusion:
+=
+
+## sub-section1
+
+### CPU usage
+
+Though firefox is much much better than chrome when it comes down to your relative privacy on the internet, there still needs to be worked on leveraging the **cpu load** of the engine on as much _cores as the machine can spare_. That is what chrome does and that's what makes it shine on potato machines like my #DAW
+
+### Memory usage
+
+Firefox uses less ram than chrome, significantly less. It's of no issue if your workstation has 16GB+ though
+
+## Ease of use:
+Firefox is clearly written with me as the user in mind. New features are explaned in simple manners. Protections are put on as defaults and other users get clear instructions on how to protect themselves manually in easy to access config pages
+
+## speed:
+I can only talk about this when I compare both browsers with the test site <https://browserbench.org/>
+
 
 THis doc was written inspired by this wonderfull post <https://dev.to/dtroode/why-you-need-to-give-firefox-a-chance-5g5a>
 

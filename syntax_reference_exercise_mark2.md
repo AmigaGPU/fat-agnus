@@ -1,7 +1,7 @@
 _*MarkDown syntax Reference*_
 =
 
-### The code above is a title marker
+### The code above is a title marker!
 
 **_Cheat sheet copied from the MarkDownEdit site:_**
 -

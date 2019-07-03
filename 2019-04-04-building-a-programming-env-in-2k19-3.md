@@ -5,7 +5,7 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
-(*)Revision tracking via **git!**
+(*)Advanced Revision tracking via **git!**
 
 You know what the most important thing is when you make programming ENVs?
 
@@ -14,11 +14,11 @@ You know what the most important thing is when you make programming ENVs?
 I want git to behave (almost) the same in #linux #win64 and #freeBSD. Luckily the coders of git (which is the brainchild of Linus Torvalds) made sure of that. All that you need to do is use _bash_ that came with it, for the easiest path to that achievement. When you dig a bit into the subject, you will see that some clever translations are done for drive paths and such, so that they become consistent in linux and win64
 
 The syntax is /driveletter/path
-So `/e/var/home/programmer/coding/linux/xplatfor/fat-agnus` would be a valid path in bash win64 and bash linux, while the underlying win64 filesystem (ntfs) letter and backslashes are translated to posix compliant equivalents, making the compilation of your sources easier, since you don't need to do any filesystem path conversions, by including an extra lib for that function. 
+So `/e/var/home/programmer/coding/linux/xplatfor/fat-agnus` would be a valid path in bash win64 and bash linux, while the underlying win64 filesystem (ntfs) letter and backslashes are translated to posix compliant equivalents, making the compilation of your sources easier, since you don't need to do any filesystem path conversions, by including an extra library for that function. 
 
-Another beautifull thing about tools is that even though, they can do a **lot** you only need to learn what _you_ need, to achieve your goals.
+Another beautiful thing about tools is that even though, they can do a **lot** you only need to learn what _you_ need, to achieve your goals.
 
-I know no person who knows everything there is about bash, probably only the original programmers and contributors do, and that is a _group_ of people, a collective.
+I know no person who knows everything there is about bash, chances are that only the original programmers and contributors do, and that is a _group_ of people, a collective.
 
 I do know one person who know a _lot_ about different shells, but that is simply because she *had to* gain that knowledge, due to her programming ENV: and workflow both in private and in her job
 
