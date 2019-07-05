@@ -1,13 +1,13 @@
 title:24hr streams HOWTO
 published: false
 description: How I do my 24hr streams
-tags: #twitch #streaming #Mixer #HowTo
+tags: #Streaming #Mixer #twitch #HowTo
 --
 
-## The Goal
+The Goal
+=
 
-Achieve the mythical 24hour stream louwers
-(without going to hospital in the process).
+Achieve the mythical 24hour stream louweren krans (NL) (without going to hospital in the process).
 
 ### The Method
 (**)

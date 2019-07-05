@@ -1,7 +1,7 @@
 ---
 title: VoiceMeeeter advanced HOWTo for SoHo studio's
 published: false
-description: How to use VoiceMeeeter VBAN network audio casting in SoHo studios
+description: How to use VoiceMeeeter's #VBAN Network Audio Casting in (SoHo) studios
 tags: #SoundEngineering #DAW #VBAN #AUDIO
 ---
 
@@ -19,20 +19,20 @@ I will cross-scribe the tweets I posted some days ago in this document in a chro
 
 I have configured **#VBAN** that it sends the audio over my whole network segment. That way all I need 2 do is install a receptor on a machine and viola, my #Yamaha audio is heard there, sent over the #LAN
 
-◆🎧#VBAN is professional grade multichannel audio and can be send in sampling rates to 96 kHZ up to 24 bits resolution up to 8 channels (DTS7.1)in native PCM format on your LAN🎧◆
+â—†ðŸŽ§#VBAN is professional grade multichannel audio and can be send in sampling rates to 96 kHZ up to 24 bits resolution up to 8 channels (DTS7.1)in native PCM format on your LANðŸŽ§â—†
 
-◆🎧The machine which only receives #VBAN does not need to be high spec. The fact that clients have been programmed for phones indicates that reception only puts a light load on the system🎧◆
+â—†ðŸŽ§The machine which only receives #VBAN does not need to be high spec. The fact that clients have been programmed for phones indicates that reception only puts a light load on the systemðŸŽ§â—†
 
-◆🎧#VBAN is such a fascinating subject that I will be playing more with it, since the concept of linking soft mixing consoles via LAN on #DAW's which are mainly linked to hardware mixers like my #Yamaha 16 channel consoles opens up a whole lot of audio control possibilities🎧◆
+â—†ðŸŽ§#VBAN is such a fascinating subject that I will be playing more with it, since the concept of linking soft mixing consoles via LAN on #DAW's which are mainly linked to hardware mixers like my #Yamaha 16 channel consoles opens up a whole lot of audio control possibilitiesðŸŽ§â—†
 
-◆🎧I shall also show you, that in case you only use VoiceMeeeter Banana the #VBAN routing is virtually the same, you only have less busses and less hardware channels🎧◆
+â—†ðŸŽ§I shall also show you, that in case you only use VoiceMeeeter Banana the #VBAN routing is virtually the same, you only have less busses and less hardware channelsðŸŽ§â—†
 
 
-◆🎧I've played extensively with the latest #VoiceMeeeter mixing console & #VBan Network Sound Caster🎧◆🎶🎵
+â—†ðŸŽ§I've played extensively with the latest #VoiceMeeeter mixing console & #VBan Network Sound CasterðŸŽ§â—†ðŸŽ¶ðŸŽµ
 
-🎧#VoiceMeeeter enables you to cast your audio over your LAN in different quality modes, so expensive equipment like #Sonos networked speaker systems are not needed. Use the VBan receptors on #win64 #android (and #iOS?) to receive the signal and route it to your speakers!🎧
+ðŸŽ§#VoiceMeeeter enables you to cast your audio over your LAN in different quality modes, so expensive equipment like #Sonos networked speaker systems are not needed. Use the VBan receptors on #win64 #android (and #iOS?) to receive the signal and route it to your speakers!ðŸŽ§
 
-◆🎧Instead of pulling XLR cables in your ceiling to your studio monitors, you can pull  one RJ45 cable and use that for casted audio & LAN signals🎧◆
+â—†ðŸŽ§Instead of pulling XLR cables in your ceiling to your studio monitors, you can pull  one RJ45 cable and use that for casted audio & LAN signalsðŸŽ§â—†
 
 
 (*)
