@@ -1,3 +1,11 @@
+---
+title: Bashing through the terminals
+published: false
+description: How I use bash for work & play
+tags: #bash #zsh #ash #ksh
+---
+
+
 Reference link <<https://dev.to/radio_azureus/comment/a5pb>>
 
 I use _bash_ over the whole gamut, from simple tasks as managing files & directories in `~` to (simple) programming & scripting where it is just vital to have a shell you are comfortable in.
@@ -20,3 +28,5 @@ On servers and workstations I basically live in $bash
 
 
 ()#DAW -> digital audio workstation
+
+This document is a *wip, work in progress* Its not finished yet. It is ripe for (prelimenary) publishing, which is the main reason why I released it.

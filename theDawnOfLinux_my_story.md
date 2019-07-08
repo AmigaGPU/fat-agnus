@@ -1,10 +1,10 @@
-title: the dawn of linux in SR / SA 
+title: the dawn of Linux in SR / SA 
 published: false
 description: How I started out with #Linux
 tags: #Linux #History #386DX #kernel
 --
 
-I was looked at when I told my friends at the dawn of linux (alpha kernels on 386 DX machines) that this OS is **fascinating** and will make me money sooner than later.
+I was looked at in an odd way when I told my friends at the dawn of linux (alpha kernels on 386 DX machines) that this OS is **fascinating** and will make me money sooner than later.
 
 ## So I invested time in linux from that moment on.
 
@@ -18,4 +18,4 @@ All these years later I work in multiple OS'es (#freeBSD #Linux) stream in #win6
 This document is a _w.i.p_ it's not finished yet. I publish it only it git ATM, even though it's already in a readble state
 
 
-A fresh up to date version of this doc is here
+A fresh up to date version of this doc is here: <https://github.com/AmigaGPU/fat-agnus/blob/master/theDawnOfLinux_my_story.md>

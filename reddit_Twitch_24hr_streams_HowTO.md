@@ -7,7 +7,7 @@ tags: #Streaming #Mixer #twitch #HowTo
 The Goal
 =
 
-Achieve the mythical 24hour stream louweren krans (NL) (without going to hospital in the process).
+Achieve the mythical 24hour stream louweren krans (NL!) (without going to hospital in the process).
 
 ### The Method
 (**)

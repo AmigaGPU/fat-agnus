@@ -5,11 +5,11 @@ description: How I build my programming ENV's on whatever machine I am the longe
 tags: #programming #golang #linux #DAW
 ---
 
-(*)Advanced Revision tracking via **git!**
+(*)Advanced Revision tracking via **git**
 
 You know what the most important thing is when you make programming ENVs?
 
-#### Consistency in workflow
+#### Consistency in workflow!
 
 I want git to behave (almost) the same in #linux #win64 and #freeBSD. Luckily the coders of git (which is the brainchild of Linus Torvalds) made sure of that. All that you need to do is use _bash_ that came with it, for the easiest path to that achievement. When you dig a bit into the subject, you will see that some clever translations are done for drive paths and such, so that they become consistent in linux and win64
 

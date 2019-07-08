@@ -7,7 +7,7 @@ tags: #SoundEngineering #DAW #VBAN #AUDIO
 
 
 ## VoiceMeeeter advanced HOWTo for SoHo studio's 
-realtime synced(*)
+realtime synced(*) github powered!
 
 VoiceMeeeter is a **professional** mixing console in software, which runs in most win-x flavours.
 
