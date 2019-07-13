@@ -1,4 +1,4 @@
-title: Google privacy doc 1999 
+title: Google privacy doc year 1999 
 published: false
 description: How google started out with the search engine
 tags: #google #googol #History
@@ -7,7 +7,7 @@ tags: #google #googol #History
 Privacy doc google.com 1999
 ==
 
-## The good guys 
+## The good guys
 
 Google is **sensitive** to the privacy concerns of its users.
 
@@ -34,7 +34,7 @@ the information or not.
 **In case you change your mind or some personal information changes, we will endeavor to provide a way to correct, update or _remove_ the personal data you give us.**
 
 Google and Cookies Upon your first visit to Google, Google sends a “cookie” to your computer. A cookie is a file that identifies 
-you as a unique user.
+you as a unique user
 
 It can also store personal preferences and user data. A cookie can tell us, “This is the same individual who visited Google two days ago” but it cannot tell us, “This person is Joe Smith” or even, “This person lives in the 
 United States.”
@@ -54,6 +54,8 @@ For instance, Google uses this information to determine how often users are sati
 Google’s policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond Google’s control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
 
 We reserve the right at our discretion to make changes to this policy at any time. Please check this page periodically for changes.
+
+Direct link to this doc: <https://github.com/AmigaGPU/fat-agnus/blob/master/google_privacy_1999.md>
 
 ^Z
 ==

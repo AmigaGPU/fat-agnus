@@ -1,6 +1,6 @@
 title: The Dawn of Linux in SR / SA 
 published: false
-description: How I started out with #Linux
+description: How I started out with the #Linux OS
 tags: #Linux #History #386DX #kernel
 --
 
