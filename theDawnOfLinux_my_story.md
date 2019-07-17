@@ -4,7 +4,7 @@ description: How I started out with the #Linux OS
 tags: #Linux #History #386DX #kernel
 --
 
-I was looked at in an odd way when I told my friends at the dawn of linux (alpha kernels on 386 DX machines) that this OS is **fascinating** and will make me money sooner than later.
+I was looked at in an odd way when I told my friends at the dawn of linux (alpha kernels on 386 DX machines) that this OS is **fascinating** and will make me money, sooner rather than later.
 
 ### So I invested time in linux from that moment on.
 

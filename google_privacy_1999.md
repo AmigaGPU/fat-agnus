@@ -19,9 +19,9 @@ Google’s Policy Google’s policy on our wholly controlled and operated Intern
 
 Google does not willfully disclose individually identifiable information about its customers to any third party without first receiving that customer’s permission. 
 
-This policy statement tells you how we collect information from you and how we use it.
+This policy statement tells you how we collect information from _you_ and how we use it.
 
-Google may share information about users with advertisers, business partners, sponsors, and other third parties. However, we only talk about our users in aggregate, not as 
+Google **may** share information about users with advertisers, business partners, sponsors, and other third parties. However, we only talk about our users in aggregate, not as 
 individuals.
 
 For example, we may disclose how frequently the average Google user visits Google, or which other query words are most often used with the query word “Microsoft.”

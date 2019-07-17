@@ -37,9 +37,11 @@ Nikon gear
 * grant total     U$50904
 
 
+This list was written as a reply to a post where fools wanted to pay mediocre ammounts of money to a photograper who has a whole _**gear set** like the one above_ Its written as you read. It _is_ ripe for publishing, which is the main reason why I released it.
 
 
+Direct link to this doc:
+<https://github.com/AmigaGPU/fat-agnus/blob/master/nikon_photography_gear.md>
 
-Direct link to this doc: 
 ^Z
-==
+
