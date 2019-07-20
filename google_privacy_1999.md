@@ -11,7 +11,7 @@ Privacy doc google.com 1999
 
 Google is **sensitive** to the privacy concerns of its users.
 
-The Internet allows individuals to explore and communicate with unprecedented ease, but it also allows websites to collect and distribute personal information with equal ease.
+The internet allows individuals to explore and communicate with unprecedented ease, but it also allows websites to collect and distribute personal information with equal ease.
 
 We at Google know that many users are, understandably, _concerned_ about such practices, and we wish to make clear our policy for collecting and using personal information.
 
