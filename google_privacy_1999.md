@@ -9,7 +9,7 @@ Privacy doc google.com 1999
 
 ## The good guys
 
-Google is **sensitive** to the privacy concerns of its users.
+Google is **sensitive** to the privacy concerns of its users. (back in '99 of the last century)
 
 The internet allows individuals to explore and communicate with unprecedented ease, but it also allows websites to collect and distribute personal information with equal ease.
 

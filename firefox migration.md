@@ -6,7 +6,7 @@
   ---
   
   
-  I've downloaded firefox **ESR** and am migrating important addons to firefox equivalents. Up to now most of them, apart from _authy_ (a crucial one) have native versions.
+  I've downloaded firefox **ESR** and am migrating important addons to firefox equivalents. Up to now most of them, apart from _authy_ (a crucial one) have native versions!
   
   One nice thing is that ffox was able to get my passwords _imported transparently_ from my chrome **ENV:**
   

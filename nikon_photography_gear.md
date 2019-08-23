@@ -1,6 +1,6 @@
-title: photographers kit 
+title: Photographers Gear 
 published: false
-description: photography gear 2019
+description: Nikon photography gear 2019
 tags: #photography #nikon #prime #lenses
 --
 

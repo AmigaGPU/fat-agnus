@@ -11,7 +11,7 @@ realtime synced(*) powered & played by github!
 
 VoiceMeeeter is a **professional** mixing console in software, which runs in most win-x flavours.
 
-In this doc I will highlight the usage of **#VBAN** an advanced _UDP_ based network protocol designed to send your audio in broadcast quality (uncompressed PCM format) from mixing console to mixing console and to various #VBAN receptors throughout like phones and client machines running a mixmode of _android iOS_ and win64 OS'es.
+In this doc I will highlight the usage of **#VBAN** an advanced _UDP_ based network protocol designed to send your audio in broadcast quality (uncompressed PCM format) from mixing console to mixing console and to various #VBAN receptors throughout like phones and client machines running a mixmode of _android iOS_ and win64 OS'es...
 
 I will cross-scribe the tweets I posted some days ago in this document in a chronological order
 
@@ -25,12 +25,11 @@ These are the tweets I organize in a logical sequence
 
 The machine which only receives #VBAN does not need to be high spec. The fact that clients have been programmed for phones indicates that reception only puts a light load on the system
 
-#VBAN is such a fascinating subject that I will be playing more with it, since the concept of linking soft mixing consoles via LAN on #DAW's which are mainly linked to hardware mixers like my #Yamaha 16 channel consoles opens up a whole lot of audio control possibilities
+#VBAN is such a fascinating subject that I will be playing more with it, since the concept of linking soft mixing consoles via LAN on #DAW's which are mainly linked to *hardware* **mixers** like my #Yamaha 16 channel consoles opens up a whole lot of audio control possibilities
 
-I shall also show you, that in case you only use VoiceMeeeter Banana the #VBAN routing is virtually the same, you only have less busses and less hardware channels
+I shall also show you, that in case you only use VoiceMeeeter Banana the #VBAN routing is virtually the same, you only have less busses and less hardware channels.
 
-
-I've played extensively with the latest #VoiceMeeeter mixing console & #VBan Network Sound Casterð
+I've played extensively with the latest #VoiceMeeeter mixing console & #VBan **Network Sound Caster**
 
 #VoiceMeeeter enables you to cast your audio over your LAN in different quality modes, so expensive equipment like #Sonos networked speaker systems are not needed. Use the VBan receptors on #win64 #android (and #iOS?) to receive the signal and route it to your speakers.
 
@@ -42,4 +41,4 @@ _Analog_ in the sence that the effect has true VU-meter behaviour and a well exe
 (*)
 This doc is synchronized via **github!** This is the link to the latest update in the repository <https://github.com/AmigaGPU/fat-agnus/blob/master/voicemeeeter-advanced-howto-for-soho-studios.md>
 
-This HowTO is a *wip, work in progress* Its written as you read. It _is_ ripe for (prelimenary) publishing, which is the main reason why I released it.
+This HowTO is a *wip, work in progress* Its written as you read. It _is_ ripe for (prelimenary) publication, which is the main reason why I released it.

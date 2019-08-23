@@ -1,4 +1,4 @@
-# API Reference Tautulli
+# API Reference manual Tautulli
 
 ## General structure
 The API endpoint is
@@ -6,7 +6,7 @@ The API endpoint is
 http://IP_ADDRESS:PORT + [/HTTP_ROOT] + /api/v2?apikey=$apikey&cmd=$command
 ```
 
-### Example:
+## Example:
 ```
 http://localhost:8181/api/v2?apikey=66198313a092496b8a725867d2223b5f&cmd=get_metadata&rating_key=153037
 ```
