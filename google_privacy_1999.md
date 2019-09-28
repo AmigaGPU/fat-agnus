@@ -1,7 +1,7 @@
 title: Google privacy doc year 1999 
 published: false
 description: How google started out with the search engine
-tags: #google #googol #History
+tags: #google #googol? #History
 --
 
 Privacy doc google.com 1999

@@ -6,13 +6,11 @@ tags: #bash #zsh #ash #ksh
 ---
 
 
-Reference link <<https://dev.to/radio_azureus/comment/a5pb>>
-
 I'm an avid _bash_ user. I use the _bash_ shell over the whole gamut, from simple tasks as managing files & directories in `~` to (simple) programming & scripting where it is just *vital* to have a shell you are comfortable in.
 
 There are many flavors of shells, so you will also meet people who love _#csh #ksh #zsh_ (had this on my Amiga) _#ash #sh (the original Bourne shell)_
 
-Whatever OS I'm in, I install git, since it also has _git bash_ in case you are on an OS which has no bash installed (sick). 
+Whatever OS I am in, I install git, since it also has _git bash_ in case you are on an OS which has no bash installed (sick). 
 
 This is an example of how I use git to manage markdown files all via bash
 <<https://imgur.com/N3HDHMG>>
@@ -30,3 +28,6 @@ On servers and workstations I basically live in $bash
 ()#DAW -> digital audio workstation
 
 This document is a *wip, work in progress* Its not finished yet. It is ripe for (prelimenary) publishing, which is the main reason why I released it.
+
+
+Reference link <<https://dev.to/radio_azureus/comment/a5pb>>

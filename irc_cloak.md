@@ -2,7 +2,7 @@
 title: Irc cloak the origin of the source
 published: false
 description: How I found irc_cloak() for irc://freenode.net
-tags: #irc #freenode #ipProtection 
+tags: #irc #freeNode #ipProtection 
 ---
 
 I love how I found the way to IRC cloaking. It started on a tweet from the #freeBSD community, where I saw the term `irc cloak`.
@@ -14,17 +14,19 @@ The _bot_ presents you with an **#Oauth link* to a proper page where simple inst
 
 ### These are the requirements to be granted a cloak
 
-* User must have a verified e-mail address (throwaway/disposable emails are not acceptable)
+* User must have a _verified_ e-mail address (throwaway/disposable emails are not acceptable)
 * User must have at least 250 edits on Wikimedia projects
 * User must have a Wikimedia project account registered for at least three months
 * User must not be actively blocked from a project
 
+### Remarks(*)
+
 In my enthousiasm, I _**immediately**_ asked for the IRC cloak, while I created my account _today_ & now only have a few edits ;)
 
-When I have the 250 edits & my `metawiki` account is mature enough I shall be granted the request eventually
+When I have the 250 edits & my `metawiki` account is mature enough I shall be granted the request eventually.
 
 
-#### Note(*)
+### Remarks(**)
 I started in _vim_ to see if .md editing is also smooth in **default** vim
 
 It is not, you're better off with a proper .md editor

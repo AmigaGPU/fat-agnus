@@ -87,11 +87,11 @@ Start as follows:
 
 4. **lvcreate -L** 40GB -n temp slackware
 
-5. *lvcreate -l* 100%FREE -n home slackware (this command uses all the remaining space for home)
+5. **lvcreate -l** 100%FREE -n home slackware (this command uses all the remaining space for home)
 
-Now you can continue with the OS installation.
+## Now you can continue with the OS installation!
 
-Make sure you choose "/dev/slackware/root" as the "/" partition, when asked where to install to; and format it with F2FS.
+* Make sure you choose "/dev/slackware/root" as the "/" partition, when asked where to install to; and format it with F2FS.
 Then make sure you choose "/dev/slackware/temp" to mount as the "/tmp" partition, and choose to format it with EXT4. And lastly, choose "/dev/slackware/home" to mount as the "/home" partition, and format it with XFS.
 
 When the installer finishes, it will ask you to reboot. But select "no" and go with the option to let it drop you into a command prompt.

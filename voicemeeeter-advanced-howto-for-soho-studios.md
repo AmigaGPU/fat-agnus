@@ -1,5 +1,5 @@
 ---
-title: VoiceMeeeter advanced HOWTo for SoHo studio's
+title: VoiceMeeeter advanced HOWTo for _SoHo_ studio's
 published: false
 description: How to use VoiceMeeeter's #VBAN Network Audio Casting in (SoHo) studios
 tags: #DAW #SoundEngineering #VBAN #AUDIO

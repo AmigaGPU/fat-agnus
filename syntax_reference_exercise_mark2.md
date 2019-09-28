@@ -1,7 +1,7 @@
 _*MarkDown syntax Reference*_
 =
 
-### The code above is a title marker!! Neat right?
+### The code above is a title marker!! Very Neat right?
 
 **_Cheat sheet copied from the MarkDownEdit site:_**
 -
@@ -106,7 +106,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 Lists
 =====
 
-(In this example, leading and trailing spaces are shown with with dots:
+(In this example, leading and trailing spaces are shown with with dots::
 ⋅)
 
 1.  First ordered list item

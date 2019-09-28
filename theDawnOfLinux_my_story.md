@@ -1,7 +1,7 @@
 title: The Dawn of Linux in SR / SA 
 published: false
 description: How I started out with the #Linux OS
-tags: #Linux #History #386DX #kernel
+tags: #Linux #History #386DX #32bit #kernel
 --
 
 I was looked at in an odd way when I told my friends at the dawn of linux (alpha kernels on 386 DX machines) that this OS is **fascinating** and will make me money, sooner rather than later. A bold statement which proved to be true, soon after

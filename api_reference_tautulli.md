@@ -1,4 +1,4 @@
-# API Reference manual Tautulli
+# API Reference Tautulli
 
 ## General structure
 The API endpoint is

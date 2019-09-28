@@ -4,7 +4,7 @@ description: How telesur makes up the new fttp network in SR/SA
 tags: #fttc #fttp #BPON #MSAN
 --
 
- Ik ben een beetje gaan lezen in de docs v/h fiber network van $rnet / SR. de **MSAN's** hebben o.a de oude DSLAM's in de server rooms vervangen. De _**multi-service access node**_ zorgt ook voor redundancy en kostenbesparing aangezien alles van POTS daar wordt gedigitezed, in IP mode word omgezet en vervolgens over het grote ATM network naar de servers wordt gesmeten
+ Ik heb _**veel en diepgaand**_ gelezen in de docs v/h fiber network van $rnet / SR. de **MSAN's** hebben o.a de oude DSLAM's in de server rooms vervangen. De _**multi-service access node**_ zorgt ook voor redundancy en kostenbesparing aangezien alles van POTS daar wordt gedigitezed, in IP mode word omgezet en vervolgens over het grote ATM network naar de servers wordt gesmeten
 
  Daarom is alles uitgevallen toen vandalen de dure apparatuur ergens uit een MSAN hadden gesloopt. Nu gaat dat moelijker door de verscherpte remote security van $rnet
 

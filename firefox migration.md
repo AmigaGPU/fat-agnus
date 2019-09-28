@@ -10,11 +10,11 @@
   
   One nice thing is that ffox was able to get my passwords _imported transparently_ from my chrome **ENV:**
   
-  For me extentions like _uBlock Origin BitWarden_ & _LastPass_ are vital
+  For me extentions like _**uBlock Origin BitWarden**_ & _**LastPass**_ are vital
   
-  A last important one was a _tab history_ extension which I found within 4hrs
+  A last important one was a _**tab history**_ extension which I found within 4hrs
   
-  Now I have to look if the latest incarnations are not as CPU hungry as the ones that forced me to stop in 2013. (*)
+  Now I have to look if the latest incarnations are not as CPU hungry as the ones that forced me to stop using it in 2013. (*)
   
   If it is good on this ageing #DAW, I have my response to google's FU to us, their users
   
@@ -31,3 +31,5 @@
   (**)
   The browser still uses **significantly** more _**CPU**_ than chrome in comparison. I will keep it around so that when adblocking from _ublock_ breaks in chrome, I can jump ship without any fuzz
   
+Reference link
+<https://github.com/AmigaGPU/fat-agnus/blob/master/firefox%20migration.md>
