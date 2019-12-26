@@ -4,7 +4,7 @@
 
 Alright, you just got that fast **NVMe SSD**, or even a couple…
 You hope this drive, the _size of a pack of chewing gum_, will feed your need for speed.
-So, you install it in your system… and notice that your system is noticably more responsive; but there’s something that makes you feel as though you might have missed something. What is it?
+So, you install it in your system… and notice that your system is noticably more responsive; but there’s something that makes you feel as though you might have missed something. What is it??? 
 
 Well, for starters, most likely, the one thing most people tend to overlook, is the _filesystem_ they choose to format their new NVMe SSD with. Two of the most popular filesystems on Linux are “The Fourth Extended Filesystem” or as it is also known: “ext4”, and XFS, which is a 64-bit journaling file system created by Silicon Graphics, Inc
 
@@ -89,7 +89,7 @@ Start as follows:
 
 5. **lvcreate -l** 100%FREE -n home slackware (this command uses all the remaining space for home)
 
-## Now you can continue with the OS installation!
+## Now you can continue with the OS installation.
 
 * Make sure you choose "/dev/slackware/root" as the "/" partition, when asked where to install to; and format it with F2FS.
 Then make sure you choose "/dev/slackware/temp" to mount as the "/tmp" partition, and choose to format it with EXT4. And lastly, choose "/dev/slackware/home" to mount as the "/home" partition, and format it with XFS.

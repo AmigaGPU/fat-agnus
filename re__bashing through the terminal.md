@@ -6,7 +6,7 @@ tags: #bash #zsh #ash #ksh
 ---
 
 
-I'm an avid _bash_ user. I use the _bash_ shell over the whole gamut, from simple tasks as managing files & directories in `~` to (simple) programming & scripting where it is just *vital* to have a shell you are comfortable in.
+I'm an avid _bash_ user. I use the _bash_ shell over the whole gamut, from simple tasks as managing files & directories in `~` to (simple) programming & scripting where it is just *vital* to have a shell _you_ are comfortable in.
 
 There are many flavors of shells, so you will also meet people who love _#csh #ksh #zsh_ (had this on my Amiga) _#ash #sh (the original Bourne shell)_
 

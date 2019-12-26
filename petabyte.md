@@ -3,7 +3,7 @@
 
 ## To give you some indication of the grand scale**
 
-- 1PetaByte = 1024TeraBytes
+- 1PetaByte = 1024TeraBytes!!!
 - => 1024 x 1024 GigaByte
 - => 1048576 GigaByte for scale of the incredible ammount of raw unpartitioned unformatted platter space!!!
 

@@ -4,14 +4,24 @@ description: How telesur makes up the new fttp network in SR/SA
 tags: #fttc #fttp #BPON #MSAN
 --
 
- Ik heb _**veel en diepgaand**_ gelezen in de docs v/h fiber network van $rnet / SR. de **MSAN's** hebben o.a de oude DSLAM's in de server rooms vervangen. De _**multi-service access node**_ zorgt ook voor redundancy en kostenbesparing aangezien alles van POTS daar wordt gedigitezed, in IP mode word omgezet en vervolgens over het grote ATM network naar de servers wordt gesmeten
+ Ik heb _**veel en diepgaand**_ gelezen in de docs v/h fiber network van $rnet / SR. de **MSAN's** hebben o.a de oude DSLAM's in de server rooms vervangen. De _**multi-service access node**_ zorgt ook voor redundancy en kostenbesparing aangezien alles van POTS daar wordt gedigitized, in IP mode word omgezet en vervolgens over het grote ATM network naar de servers wordt gesmeten.
 
  Daarom is alles uitgevallen toen vandalen de dure apparatuur ergens uit een MSAN hadden gesloopt. Nu gaat dat moelijker door de verscherpte remote security van $rnet
 
  Echter hebben ze de omgeving nog steeds geen home-passed phase gegeven in phase-2 van het FTTH traject, terwijl ik jongens van MES heb gezien helemaal op Tamanredjo, toen ik daar trainde. We zien ook bij het block van DSB gravenstraat geen Fibre Access Terminals (was-wasi-godo's) in de EBS masten
 
 **UPDATE**
-Er worden nieuwe masten gezet in de buurt door de EBS. Daarom kregen we hier geen home passed FAT terminals in de masten
+
+Er worden nieuwe masten gezet in de buurt door de EBS. Daarom kregen we hier geen home passed FAT terminals in de masten.
+
+
+**UPDATE-II**
+
+Een maand daarna nog steeds geen **fat-terminals** in de straat
+
+**UPDATE-III**
+
+Maanden daarna _(dec-2019)_ nog steeds geen FAT terminals in de buurt / straat.
 
 
  Het is alsof de binnenstad een stiefmoederlijk treatment krijgt. Zijn de FAT terminals al aan de Kasabaholo weg? Ik heb niet opgelet toen ik daar voor het laatst trainde

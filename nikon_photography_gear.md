@@ -4,7 +4,7 @@ description: Nikon photography gear 2019
 tags: #photography #nikon #prime #lenses
 --
 
-Nikon gear
+Nikon camera gear
 ==
 
 

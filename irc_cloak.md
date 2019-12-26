@@ -12,7 +12,7 @@ When I jumped to the section #Obtaining_a_cloak I got a nice command I could use
 
 The _bot_ presents you with an **#Oauth link* to a proper page where simple instructions need to be followed to be queued.
 
-### These are the requirements to be granted a cloak
+### These are the requirements to be granted a cloak...
 
 * User must have a _verified_ e-mail address (throwaway/disposable emails are not acceptable)
 * User must have at least 250 edits on Wikimedia projects

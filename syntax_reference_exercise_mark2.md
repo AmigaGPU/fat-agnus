@@ -3,7 +3,7 @@ _*MarkDown syntax Reference*_
 
 ### The code above is a title marker!! Very Neat right?
 
-**_Cheat sheet copied from the MarkDownEdit site:_**
+**_Cheat sheet copied from the MarkDownEdit site_**
 -
 
 This is a _subtitle_ marker!
