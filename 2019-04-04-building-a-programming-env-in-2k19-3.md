@@ -47,4 +47,4 @@ A fully synced update of this post resides here <https://github.com/AmigaGPU/fat
 The other docs are also in that master branch
 
 
-This is part-III of the series in which I will publish this thread
+This is part-III of the series in which I will publish this thread.
